@@ -1,5 +1,5 @@
 """
-ASGI config for mycollector project.
+ASGI config for myycollector project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

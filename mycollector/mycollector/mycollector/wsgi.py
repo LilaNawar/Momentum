@@ -1,5 +1,5 @@
 """
-WSGI config for mycollector project.
+WSGI config for myycollector project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 

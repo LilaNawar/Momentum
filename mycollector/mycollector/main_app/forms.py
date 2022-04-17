@@ -1,8 +1,9 @@
 from dataclasses import fields
 from django.forms import ModelForm
-from .models import Feeding
+from .models import Occasion
 
-class FeedingForm(ModelForm):
+
+class OccasionForm(ModelForm):
     class Meta:
-        model = Feeding
-        fields = ['date', 'meal']
+        model = Occasion
+        fields = ['pant','top']
